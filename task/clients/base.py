@@ -1,6 +1,6 @@
 from abc import ABC, abstractmethod
 
-from task.constants import API_KEY
+from task.config import API_KEY
 from task.models.message import Message
 
 
